@@ -389,7 +389,7 @@ header nav ul li {
 
 #showcase {
   min-height: 400px;
-  background-image: url(../img/showcase.jpg);
+  background-image: url(./img/showcase.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;

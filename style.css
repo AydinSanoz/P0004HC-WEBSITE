@@ -470,6 +470,10 @@ footer {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+#main .quote div {
+  margin: 3px 0px;
+  padding: 3px 0px;
+}
 #main ul {
   margin: 0;
   padding: 0;

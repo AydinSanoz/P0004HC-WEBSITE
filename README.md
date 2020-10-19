@@ -2,11 +2,11 @@
 
 ## ScreenShot
 
-![ScreenShot](./img/Image1.jpg)
+![ScreenShot](./img/ScreenShot1.jpg)
 ---
-![ScreenShot](./img/Image2.jpg)
+![ScreenShot](./img/ScreenShot2.jpg)
 ---
-![ScreenShot](./img/Image3.jpg)
+![ScreenShot](./img/ScreenShot3.jpg)
 
 ## WebSite Link
 

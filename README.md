@@ -2,11 +2,11 @@
 
 ## ScreenShot
 
-![ScreenShot](./images/img1.jpg)
+![ScreenShot](./mages/Image1.jpg)
 ---
-![ScreenShot](./images/img2.jpg)
+![ScreenShot](./images/Image2.jpg)
 ---
-![ScreenShot](./images/img3.jpg)
+![ScreenShot](./images/Image3.jpg)
 
 ## WebSite Link
 
